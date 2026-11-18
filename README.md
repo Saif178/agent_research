@@ -1,4 +1,4 @@
-# Researcher Agent v2 — Multi-Agent Research Assistant
+# Researcher Agent — Multi-Agent Research Assistant
 
 A multi-agent technical research assistant built with the **OpenAI Agents SDK**. It routes research
 questions to domain specialists, searches scholarly metadata and the web, retrieves passages from
