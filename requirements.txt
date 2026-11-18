@@ -1,0 +1,10 @@
+openai-agents
+python-dotenv
+streamlit
+pydantic>=2
+pandas
+httpx
+pypdf
+chromadb
+python-docx
+reportlab
